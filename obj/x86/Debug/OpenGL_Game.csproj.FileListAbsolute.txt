@@ -1,0 +1,377 @@
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI SHIT\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab2\Initial_ECS_Framework\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_color_4.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_nmap_2_Tris.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_rough.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Default\default.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab3\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Default\default.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_color_4.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_nmap_2_Tris.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_rough.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab4\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Default\default.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_color_4.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_nmap_2_Tris.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_rough.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab5\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Default\default.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_color_4.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_nmap_2_Tris.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_rough.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Initial_ECS_Framework - Copy\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Default\default.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_color_4.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_nmap_2_Tris.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_rough.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Backup of collision\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Default\default.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_color_4.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_nmap_2_Tris.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_rough.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\obj\x86\Debug\OpenGL_Game.pdb
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\CubeMaze\NewCube.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\CubeMaze\NewCube.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\Floor.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\Floor.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\StageWall.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\StageWall.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\PacmanStage.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\PacmanStage.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\Corner_Wall.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\Corner_Wall.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\T_Wall.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\T_Wall.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\Reverse_T_Wall.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\Reverse_T_Wall.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\Reverse_Corner_Wall.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\Reverse_Corner_Wall.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\GhostRoom.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\GhostRoom.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\LongWall.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\LongWall.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\ShortWall.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Walls\ShortWall.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Moon\PointSphere.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Moon\PointSphere.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost0.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost0.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost1.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost1.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost2.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost2.obj
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost3.mtl
+C:\Users\assas\Documents\UNI FILES\3rd Year\Games Architecture\Lab7\Best version of collision\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost3.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Audio\buzz.wav
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Default\default.png
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_color_4.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_nmap_2_Tris.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Spaceship\Intergalactic_Spaceship_rough.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\CubeMaze\NewCube.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\CubeMaze\NewCube.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Finished_Cone.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Ice_Cream_Cone\Ice_Cream_Cone2.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Intergalactic_Spaceship\Intergalactic_Spaceship.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Moon\PointSphere.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Moon\PointSphere.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost0.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost0.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost1.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost1.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost2.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost2.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost3.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Sphericals\Ghost3.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\Corner_Wall.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\Corner_Wall.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\Floor.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\Floor.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\GhostRoom.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\GhostRoom.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\LongWall.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\LongWall.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\PacmanStage.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\PacmanStage.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\Reverse_Corner_Wall.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\Reverse_Corner_Wall.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\Reverse_T_Wall.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\Reverse_T_Wall.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\ShortWall.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\ShortWall.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\StageWall.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\StageWall.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\T_Wall.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Walls\T_Wall.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Shaders\fs.glsl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Shaders\vs.glsl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Moon\moon.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Moon\moon.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.mtl
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Geometry\Wraith_Raider_Starship\Wraith_Raider_Starship.obj
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\bmq1.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\cockpit_mtl1_diffcol.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d10.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\d17b.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl1_diffcol.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\door_mtl2_diffcol.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\vj2c.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Wraith_Raider_Starship\yx1_02_01_01.jpg
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\Textures\Moon\moon_diffuse.png
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\OpenGL_Game.exe
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\OpenGL_Game.pdb
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\OpenTK.pdb
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\bin\WindowsGL\Debug\OpenTK.xml
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\obj\x86\Debug\OpenGL_Game.csprojAssemblyReference.cache
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\obj\x86\Debug\OpenGL_Game.csproj.CopyComplete
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\obj\x86\Debug\OpenGL_Game.exe
+C:\Users\assas\Desktop\My Uni finished Projects\Games Architecture Submission\Code\obj\x86\Debug\OpenGL_Game.pdb
